@@ -24,7 +24,7 @@ class Config(object):
 
 📡 **𝐇𝐨𝐬𝐭𝐞𝐝 𝐨𝐧:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 
-🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [@Krk_kanish](https://Krk_kanish4) 
+🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [@Krk_kanish](https://Krk_kanish) 
 
 👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:** [𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/Ottblasters)
 
